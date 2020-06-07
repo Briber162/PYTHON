@@ -1,0 +1,5 @@
+There are two python files.
+The app_bot.py file contains the code for web scrapping the first page of indeed.com that comes when you give the respective inputs
+to it using the tkinter.
+The inputs are taken using the tkinter python file.
+The scrapped data is stored in a file named datascience.csv(you can change the name as you want)
